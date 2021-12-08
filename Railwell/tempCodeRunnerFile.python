@@ -1,0 +1,19 @@
+import phonenumbers
+  
+# carrier: to know the name of 
+# service provider of that phone number
+from phonenumbers import carrier,geocoder,timezone
+  
+val = input("Enter Number: ")
+service_provider = phonenumbers.parse(val)
+# Indian phone number example: +91**********
+
+# Nepali phone number example: +977**********
+   
+      
+# this will print the service provider name
+print(carrier.name_for_number(service_provider,
+                              'en')) 
+print(timezone.time_zones_for_number(service_provider))                               
+print(geocoder.description_for_number(service_provider,
+                              'en')) 
