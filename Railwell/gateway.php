@@ -1,5 +1,5 @@
 <?php
-$apikey="rzp_test_18TxWpftEhFeqn"
+$apikey="Enter your Razorpay API key"
 ?>
 <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
 <form action="confirm.html" method="POST">
