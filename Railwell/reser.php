@@ -60,7 +60,7 @@ if(isset($_SESSION['name'])){}
 			
 			</div>
 			<div id="heading">
-				<a href="index.html">Indian Railways</a>
+				<a href="index.html">Railwell Services</a>
 			</div>
 			</div>
 		</div>
@@ -220,16 +220,7 @@ if(isset($_SESSION['name'])){}
 		</div>
 		
 		
-<footer >
-		<div style="width:100%;">
-			<div style="float:left;">
-			<p class="text-right text-info">  &copy; 2018 Copyright PVT Ltd.</p>	
-			</div>
-			<div style="float:right;">
-			<p class="text-right text-info">	Desinged By : projectworlds</p>
-			</div>
-		</div>
-		</footer>		
+		
 	</div>
 </body>
 </html>
