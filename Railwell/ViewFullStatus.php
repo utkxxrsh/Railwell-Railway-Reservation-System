@@ -64,7 +64,7 @@ mysqli_select_db($conn,"$db_name") or die("cannot select db");
 			
 			</div>
 			<div id="heading">
-				<a href="index.php">Indian Railways</a>
+				<a href="index.php">Railwell Services</a>
 			</div>
 			</div>
 		</div>
