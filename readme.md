@@ -13,4 +13,18 @@ Javascript is used for validation.
 <b>3.Find Train Module- </b>This can be used to find information on trains running between desired stations with their timings and availability.
 This is useful to check before booking the ticket.<br>
 ![image](https://user-images.githubusercontent.com/64093818/147103004-9cc0c4d6-8cf5-45dd-be5c-4e7947152b24.png)
+<b>4.Reservation Module-</b> This module is used to book tickets and it is divided into 2 parts. In the first part the user selects details of journey like date, source, destination and in the second part, user fills up the passenger details.
+<br>
+![image](https://user-images.githubusercontent.com/64093818/147103227-65d77ffa-46ce-4054-a15c-2f4174e348a8.png)
+<br>
+![image](https://user-images.githubusercontent.com/64093818/147103266-d9fa5ff3-23c7-4913-ba5d-32055d156bb4.png)
+<br><br>
+<b>5.Profile Module – </b>This displays all the details of the user that were submitted during signup fetched directly from the database and also has option to reset password.<br>
+![image](https://user-images.githubusercontent.com/64093818/147103377-44bdf3f0-c90f-4771-9751-dca25b4e26a0.png)
+<br><BR>
+  <b>6.Booking History –</b> This module displays and holds all the records of booked tickets and user can pay for ticket or view the ticket status from here.<br>
+  ![image](https://user-images.githubusercontent.com/64093818/147103502-a7a5a98a-098a-4c4c-84ed-af6240702369.png)
+
+
+
 
