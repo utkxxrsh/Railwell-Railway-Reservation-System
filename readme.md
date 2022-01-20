@@ -22,10 +22,10 @@ This is useful to check before booking the ticket.<br><br>
 ![image](https://user-images.githubusercontent.com/64093818/147103266-d9fa5ff3-23c7-4913-ba5d-32055d156bb4.png)
 <br><br>
 <b>5.Profile Module – </b>This displays all the details of the user that were submitted during signup fetched directly from the database and also has option to reset password.<br>
-![image](https://user-images.githubusercontent.com/64093818/147103377-44bdf3f0-c90f-4771-9751-dca25b4e26a0.png)
+![image](https://user-images.githubusercontent.com/64093818/150330002-000c4b81-c9b3-4ec8-a7d0-26bee0855e34.png)
 <br><BR>
   <b>6.Booking History –</b> This module displays and holds all the records of booked tickets and user can pay for ticket or view the ticket status from here.<br>
-  ![image](https://user-images.githubusercontent.com/64093818/147103502-a7a5a98a-098a-4c4c-84ed-af6240702369.png)
+  ![image](https://user-images.githubusercontent.com/64093818/150330050-5d7b9e3c-bd9b-430d-9965-351fe95af551.png)
 <br><br>
   <b>7. Payment Module-</b> Users can pay for their booked ticket using this.
 This module is divided into 2 parts , first in the checkout form user enters his personal details such as name, number , address etc and the second part contains the payment methods, it autofills the details using the first form and uses razorpay upi for payment.
