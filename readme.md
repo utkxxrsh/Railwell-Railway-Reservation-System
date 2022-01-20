@@ -6,7 +6,7 @@ It consists of following Modules:<br><br>
 features of the website. The data that is entered during signup is 
 stored in users table and is used to verify the user during login. 
 Javascript is used for validation.
-![image](https://user-images.githubusercontent.com/64093818/147102835-79d781b2-2958-44ab-a441-5b8d20518442.png)
+![image](https://user-images.githubusercontent.com/64093818/150329441-c79e55a1-90ad-4a1b-b02d-6c1c740293e4.png)
 
 <br><br>
 <b>2.Home Page- </b>The first page that is displayed while opening the website and user can navigate to different options on the webpage using the navbar. There is an rss feed that displays live news directly from me.dia houses. It also has a welcome message for the user. It also contains a slideshow of images.<br>
