@@ -14,7 +14,7 @@ Javascript is used for validation.
 <br><br>
 <b>3.Find Train Module- </b>This can be used to find information on trains running between desired stations with their timings and availability.
 This is useful to check before booking the ticket.<br><br>
-![image](https://user-images.githubusercontent.com/64093818/147103004-9cc0c4d6-8cf5-45dd-be5c-4e7947152b24.png)
+![image](https://user-images.githubusercontent.com/64093818/150329622-86b453b9-3574-4739-946d-456b06dfe3a6.png)
 <b>4.Reservation Module-</b> This module is used to book tickets and it is divided into 2 parts. In the first part the user selects details of journey like date, source, destination and in the second part, user fills up the passenger details.
 <br>
 ![image](https://user-images.githubusercontent.com/64093818/147103227-65d77ffa-46ce-4054-a15c-2f4174e348a8.png)
